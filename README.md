@@ -2,7 +2,7 @@
 
 There are four variations for my github client project. They are different in complexity and using technologies.
 
-1. Simple. MVC Architecture
+1. Simple. MVC Architecture. GitHubClientMVC
 
   a) Storyboard<br/>
   b) URLSession for networking<br/>
@@ -11,7 +11,7 @@ There are four variations for my github client project. They are different in co
   e) No Cocoa Pods<br/>
   f) No Unit Tests<br/>
 
-2. Medium. MVVM Architecture + Closure bindings
+2. Medium. MVVM Architecture + Closure bindings. GitHubClientMVVM
 
   a) Storyboard<br/>
   b) Alamofire for networking<br/> 
@@ -20,7 +20,7 @@ There are four variations for my github client project. They are different in co
   e) Using Cocoa Pods<br/>
   f) Using Unit Tests<br/>
 
-3. Hard. MVVM Architecture + RxSwift
+3. Hard. MVVM Architecture + RxSwift. GitHubClientMVVMRxSwift
 
   a) No stroyboard<br/>
   b) NSLayoutConstraints for autolayout<br/> 
@@ -32,7 +32,7 @@ There are four variations for my github client project. They are different in co
   h) Auto rotation and iPad adaptation<br/>
   i) Color themes changing<br/>
 
-4. Progressive. VIPER Architecture
+4. Progressive. VIPER Architecture. GitHubClientVIPER
 
   a) No stroyboard<br/>
   b) SnapKit for autolayout<br/>
