@@ -31,6 +31,7 @@ There are four variations for my github client project. They are different in co
   g) Using Unit Tests<br/>
   h) Auto rotation and iPad adaptation<br/>
   i) Color themes changing<br/>
+  j) Swinject for DI
 
 4. Progressive. VIPER Architecture. GitHubClientVIPER
 
